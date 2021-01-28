@@ -8,6 +8,3 @@
 @git push
 
 @exit
-::echo Data atual: %data%
-::echo Hora Atual: %hora%
-
