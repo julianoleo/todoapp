@@ -7,6 +7,7 @@
 @git commit -m "TodoAPP - %data% %hora%"
 @git push
 
+@exit
 ::echo Data atual: %data%
 ::echo Hora Atual: %hora%
 
