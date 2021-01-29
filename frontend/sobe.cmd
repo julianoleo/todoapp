@@ -6,6 +6,3 @@
 @git add .
 @git commit -m "TodoAPP - %data% %hora%"
 @git push
-
-exit
-exit
